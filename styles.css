@@ -1,0 +1,37 @@
+.button{
+    width: 70px;
+    height: 55px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 1px 0px 0px 0px;
+    background-color: white;
+    font-size: larger;
+
+}
+.double-button{
+    width: 155px;
+    height: 55px;
+    margin-left: 10px;
+    border: 1px 0px 0px 0px;
+    background-color: white;
+
+}
+.visor{
+    background-color: white;
+    margin: 20px 20px 10px 10px;
+    width: 323.12px;
+    height: 58.99px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}
+.calculator-body{
+    background-color: whitesmoke;
+    margin: auto;
+    margin-top: 80px;
+    width: 35%;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
